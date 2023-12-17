@@ -84,6 +84,7 @@ Utilizing Kubernetes, we can orchestrate the game's deployment on AWS EKS, allow
     $ kubectl delete deployment mario-deployment
 # Let’s Destroy the cluster
     $ terraform destroy --auto-approve
+![Uploading image.png…]()
 
 
 
